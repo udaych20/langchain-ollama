@@ -1,0 +1,28 @@
+Patient: John Doe
+Age: 35
+Gender: Male
+Chief Complaint: Stomach ache occurring mostly during the night.
+
+History of Present Illness:
+The patient reports experiencing a dull, cramping abdominal pain localized to the epigastric region. The pain often begins late at night, usually waking him up between 1–3 AM. He reports partial relief after eating a small snack. No nausea or vomiting is reported. Bowel habits are normal.
+
+Past Medical History:
+- Mild gastritis diagnosed 2 years ago.
+- No known ulcers or GI bleeding.
+- No chronic medication use.
+
+Family History:
+- Father had peptic ulcer disease.
+- Mother has type 2 diabetes.
+
+Lifestyle:
+- Frequently skips dinner due to late work hours.
+- Drinks 2–3 cups of coffee per day.
+- Occasional alcohol on weekends.
+- No smoking or drug use.
+
+Assessment/Plan:
+- Possible differential diagnoses include peptic ulcer disease (especially duodenal ulcer), functional dyspepsia, or mild acid reflux.
+- Recommended upper GI endoscopy for further evaluation.
+- Start trial of proton pump inhibitor (PPI) for 2 weeks.
+- Advise regular meals and reduction of caffeine intake.
