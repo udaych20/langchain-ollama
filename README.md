@@ -2,13 +2,28 @@
 
 This project builds a medical question-answering REST API using:
 
-- **LangChain** for document loading and QA chaining  
-- **Ollama** with `medllama2` for LLM and embeddings  
-- **FastAPI** to expose the functionality via a web API  
-- **Chroma** as the vector store for document search
-
 ---
 
+## ⚙️ Install & Run Ollama with `medllama2`
+
+First, install [Ollama](https://ollama.com) and run the `medllama2` model:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+
+ollama run medllama2
+```
+
+You can also test the model directly via API:
+
+```bash
+curl -X POST http://localhost:11434/api/generate -d '{
+  "model": "medllama2",
+  "prompt":"A 35-year-old woman presents with a persistent dry cough, shortness of breath, and fatigue. She is initially suspected of having asthma, but her spirometry results do not improve with bronchodilators. What could be the diagnosis?"
+}'
+```
+
+---
 ## 🚀 Getting Started
 
 ### 📋 Prerequisites
